@@ -1,17 +1,27 @@
 {
   "files": {
-    "main.js": "/react-hooks/static/js/main.9b82e802.chunk.js",
-    "main.js.map": "/react-hooks/static/js/main.9b82e802.chunk.js.map",
+    "main.js": "/react-hooks/static/js/main.de3e78f9.chunk.js",
+    "main.js.map": "/react-hooks/static/js/main.de3e78f9.chunk.js.map",
     "runtime-main.js": "/react-hooks/static/js/runtime-main.01825de5.js",
     "runtime-main.js.map": "/react-hooks/static/js/runtime-main.01825de5.js.map",
     "static/js/2.c77ed5d0.chunk.js": "/react-hooks/static/js/2.c77ed5d0.chunk.js",
     "static/js/2.c77ed5d0.chunk.js.map": "/react-hooks/static/js/2.c77ed5d0.chunk.js.map",
     "index.html": "/react-hooks/index.html",
-    "static/js/2.c77ed5d0.chunk.js.LICENSE.txt": "/react-hooks/static/js/2.c77ed5d0.chunk.js.LICENSE.txt"
+    "static/js/2.c77ed5d0.chunk.js.LICENSE.txt": "/react-hooks/static/js/2.c77ed5d0.chunk.js.LICENSE.txt",
+    "static/media/contextClass.d572f597.png": "/react-hooks/static/media/contextClass.d572f597.png",
+    "static/media/contextFunction.c68854ba.png": "/react-hooks/static/media/contextFunction.c68854ba.png",
+    "static/media/reducerTodo.5d597fa9.png": "/react-hooks/static/media/reducerTodo.5d597fa9.png",
+    "static/media/useCallback.288717d5.png": "/react-hooks/static/media/useCallback.288717d5.png",
+    "static/media/useContext.871b8e0f.png": "/react-hooks/static/media/useContext.871b8e0f.png",
+    "static/media/useMemo.9ecb9783.png": "/react-hooks/static/media/useMemo.9ecb9783.png",
+    "static/media/useReducer.30faf342.png": "/react-hooks/static/media/useReducer.30faf342.png",
+    "static/media/useReducerTodo.d6dfd247.png": "/react-hooks/static/media/useReducerTodo.d6dfd247.png",
+    "static/media/useRef.c65ccd81.png": "/react-hooks/static/media/useRef.c65ccd81.png",
+    "static/media/useState.5531e614.png": "/react-hooks/static/media/useState.5531e614.png"
   },
   "entrypoints": [
     "static/js/runtime-main.01825de5.js",
     "static/js/2.c77ed5d0.chunk.js",
-    "static/js/main.9b82e802.chunk.js"
+    "static/js/main.de3e78f9.chunk.js"
   ]
 }
