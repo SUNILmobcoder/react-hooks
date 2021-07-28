@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 
 import App from './App';
 import UseReducers from './components/useReducers';
+import ImageRef from './ImageRef';
 import MainContext from './MainContext';
 import TodoReducer from './TodoReducer';
 import UseCallbacks from './useCallbacks';
@@ -24,6 +25,7 @@ ReactDOM.render(
     <UseMemo />
     <div><h1>useRef</h1></div>
     <USEREF />
+    <ImageRef/>
   </React.StrictMode>,
   document.getElementById('root')
 );
